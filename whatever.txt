@@ -20,8 +20,4 @@ dasdad
 salalal
 alala
 jhgdagdjgjgdsadadas
-<<<<<<< Updated upstream
 dsadadas
-=======
-dsadadas
->>>>>>> Stashed changes
