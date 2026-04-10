@@ -19,6 +19,11 @@ editing
 dasdad
 salalal
 alala
+<<<<<<< Updated upstream
 o0001010
 1+0+
 10´10´1
+=======
+jhgdagdjgjgdsadadas
+dsadadas
+>>>>>>> Stashed changes
